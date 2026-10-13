@@ -1,0 +1,1 @@
+# PARA PODER PROGRAMAR EM TERMINAL, digite : python3 (dentro do terminal)

@@ -46,3 +46,4 @@ def foo(a, b):
 
 if __name__ == '__main__':
     main()
+terminei a aula 20 e poucas

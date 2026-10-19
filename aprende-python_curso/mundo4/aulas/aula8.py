@@ -1,1 +1,0 @@
-ver aula 8 

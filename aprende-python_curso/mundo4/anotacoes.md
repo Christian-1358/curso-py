@@ -39,3 +39,11 @@ class Gafanhoto:
 
 
     para poder coloar emogis usando rich, vc coloca no terminal> python -m rich.emoji
+
+
+
+# O QUE SAO HERANÇAS (em classe):
+
+herança, são classes dentro de outras classes com dados q vc pode colocar, 
+
+ex: classe casa (class Casa), dentro da casa, vc sempra vai saber q vai ter paredes, e comodos, ent a classe casa, é o "esqueleTO '  e dentro da classe casa, vc pode criar classes "bebes" vc podera colocar classes dentro da classe mae
